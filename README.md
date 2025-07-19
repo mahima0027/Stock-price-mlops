@@ -10,7 +10,8 @@ Stock-price-mlops/
 ├── main.py                # FastAPI app
 ├── Dockerfile             # Docker build instructions
 ├── requirements.txt       # Dependencies
-└── README.md              
+└── README.md              # You're here!
+ 
 
 
 | Tool           | Purpose                          |
