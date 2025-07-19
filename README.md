@@ -3,7 +3,7 @@
 ## 📁 Project Structure
 
 Stock-price-mlops/
-│
+'''│
 ├── data/                  # Raw and processed data
 ├── models/                # Saved models
 ├── mlruns/                # MLflow tracking
@@ -12,7 +12,7 @@ Stock-price-mlops/
 ├── main.py                # FastAPI app
 ├── Dockerfile             # Docker build instructions
 ├── requirements.txt       # Dependencies
-└── README.md              # You're here!
+└── README.md              # You're here!'''
  
 
 
