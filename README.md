@@ -2,17 +2,20 @@
 
 ## 📁 Project Structure
 
-Stock-price-mlops/
-│
-├── data/                  # Raw and processed data
-├── models/                # Saved models
-├── mlruns/                # MLflow tracking
-├── .github/workflows/     # CI/CD pipeline YAML
-├── src/                   # Source code for training, utils, etc.
-├── main.py                # FastAPI app
-├── Dockerfile             # Docker build instructions
-├── requirements.txt       # Dependencies
-└── README.md              # You're here!
+| Path                 | Description                           |
+| -------------------- | ------------------------------------- |
+| Stock-price-mlops/   | Root directory                        |
+| ├── data/            | Raw and processed data                |
+| ├── models/          | Saved models                          |
+| ├── mlruns/          | MLflow tracking                       |
+| ├── .github/         | GitHub configurations                 |
+| │ └── workflows/     | CI/CD pipeline YAML files             |
+| ├── src/             | Source code for training, utils, etc. |
+| ├── main.py          | FastAPI app                           |
+| ├── Dockerfile       | Docker build instructions             |
+| ├── requirements.txt | Project dependencies                  |
+| └── README.md        | You're here!                          |
+
  
 
 
