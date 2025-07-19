@@ -48,19 +48,19 @@
 ##  **CI/CD Pipeline Explanation**
 The project uses GitHub Actions to automate testing, model validation, and deployment:
 
-1)Push to main triggers GitHub Actions
+1) Push to main triggers GitHub Actions
 
-2)Trivy scans the Docker image for vulnerabilities
+2) Trivy scans the Docker image for vulnerabilities
 
-3)Tests run with pytest
+3) Tests run with pytest
 
-4)If tests pass, the model is trained and logged to MLflow
+4) If tests pass, the model is trained and logged to MLflow
 
-5)Model is packaged into a Docker image
+5) Model is packaged into a Docker image
 
-6)Docker image is deployed (or uploaded to Docker Hub)
+6) Docker image is deployed (or uploaded to Docker Hub)
 
-7)Workflow YAML location:
+7) Workflow YAML location:
 .github/workflows/mlops-pipeline.yml
 
 
