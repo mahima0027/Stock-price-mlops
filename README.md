@@ -16,6 +16,13 @@
 | ├── requirements.txt | Project dependencies                  |
 | └── README.md        | You're here!                          |
 
+
+
+
+
+
+
+
  
 
 
@@ -31,6 +38,11 @@
 | FastAPI        | API service for model deployment |
 | Scikit-learn   | ML modeling                      |
 | Pandas/Numpy   | Data manipulation                |
+
+
+
+
+
 
 
 **CI/CD Pipeline Explanation**
