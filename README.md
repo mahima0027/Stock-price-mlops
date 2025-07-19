@@ -47,6 +47,7 @@
 
 ##  **CI/CD Pipeline Explanation**
 The project uses GitHub Actions to automate testing, model validation, and deployment:
+
 1)Push to main triggers GitHub Actions
 
 2)Trivy scans the Docker image for vulnerabilities
