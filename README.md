@@ -1,5 +1,7 @@
 # Stock-price-mlops
 
+## 📁 Project Structure
+
 Stock-price-mlops/
 │
 ├── data/                  # Raw and processed data
