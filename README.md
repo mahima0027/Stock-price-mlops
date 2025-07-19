@@ -3,7 +3,7 @@
 ## 📁 Project Structure
 
 Stock-price-mlops/
-```│
+│
 ├── data/                  # Raw and processed data
 ├── models/                # Saved models
 ├── mlruns/                # MLflow tracking
